@@ -1,0 +1,6 @@
+dajngo==1.8.5
+djangorestframework==3.2.4
+markdown==2.6.3
+django-filter==0.11.0
+pycurl==7.19.5.1
+chardet
